@@ -1,0 +1,16 @@
+{
+  "name": "social-skill-95",
+  "owner": {
+    "name": "ExcaliBUR95"
+  },
+  "description": "Claude skills for running and growing social media accounts",
+  "plugins": [
+    {
+      "name": "instagram-growth",
+      "source": "./",
+      "description": "Instagram growth strategist: Reels scripts, hooks, carousels, captions, content calendar, analytics and safe automation",
+      "strict": false,
+      "skills": ["./skills/instagram-growth"]
+    }
+  ]
+}

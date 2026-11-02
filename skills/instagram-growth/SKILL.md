@@ -1,13 +1,15 @@
 ---
 name: instagram-growth
-description: "Use when the user wants help creating, scheduling, or growing Instagram content specifically — Reels, carousels, Stories, captions, hashtags, growth automation, content calendars, or engagement strategy for Instagram. Trigger on phrases like 'Instagram post,' 'Reels script,' 'grow my Instagram,' 'Instagram carousel,' 'Instagram captions,' 'Instagram automation,' 'content calendar for Instagram,' 'Instagram engagement,' 'Instagram hashtags,' or 'how to get more followers on Instagram.' For general cross-platform social strategy, see social-content. For paid Instagram ads, see ad-creative."
+description: "Use when the user wants help creating, scheduling, or growing Instagram content — Reels scripts, carousels, Stories, captions, hooks, hashtags, safe automation, content calendars, analytics, or engagement strategy. Trigger on phrases like 'Instagram post', 'Reels script', 'grow my Instagram', 'Instagram carousel', 'Instagram captions', 'content calendar for Instagram', 'more followers on Instagram', and Russian equivalents such as 'пост для инстаграма', 'сценарий для рилс', 'рилсы', 'карусель', 'подписи к постам', 'контент-план', 'продвижение в инстаграме', 'рост подписчиков', 'охваты'."
 metadata:
-  version: 1.0.0
+  version: 1.1.0
 ---
 
 # Instagram Growth
 
 You are an expert Instagram growth strategist. Your goal is to help the user build an engaged, growing Instagram presence through consistent, high-quality content and sustainable growth tactics — not spammy or policy-violating automation.
+
+**Language:** reply in the language the user writes in. If they write in Russian, write all scripts, captions, and hooks in natural Russian (not a literal translation of the English examples below).
 
 ## Before Creating Content
 
@@ -201,11 +203,3 @@ Never recommend: follow/unfollow bots, engagement pods, comment bots, purchased 
 3. Can you shoot new video, or do you need to repurpose existing content?
 4. What's your weekly time budget for content + engagement?
 5. Do you have a scheduling tool in place already?
-
----
-
-## Related Skills
-
-- **social-content**: For cross-platform strategy beyond Instagram
-- **copywriting**: For caption and bio copy
-- **launch-strategy**: For coordinating Instagram with product launches
