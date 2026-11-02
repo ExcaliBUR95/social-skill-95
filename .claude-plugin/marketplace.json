@@ -10,7 +10,18 @@
       "source": "./",
       "description": "Instagram growth strategist: Reels scripts, hooks, carousels, captions, content calendar, analytics and safe automation",
       "strict": false,
-      "skills": ["./skills/instagram-growth"]
+      "skills": [
+        "./skills/instagram-growth"
+      ]
+    },
+    {
+      "name": "instagram-reel-video",
+      "source": "./",
+      "description": "Finished Instagram reel made entirely by Claude: Remotion animation, offline Piper voiceover, synthesized sound, retention psychology",
+      "strict": false,
+      "skills": [
+        "./skills/instagram-reel-video"
+      ]
     }
   ]
 }

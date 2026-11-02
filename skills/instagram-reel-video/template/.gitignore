@@ -1,0 +1,6 @@
+node_modules
+out
+tools
+.voiceover-tmp
+public/voiceover
+public/sfx-gen

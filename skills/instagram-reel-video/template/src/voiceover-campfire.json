@@ -1,0 +1,490 @@
+[
+  {
+    "id": "intro",
+    "file": "voiceover/campfire/intro.wav",
+    "audioFrames": 151,
+    "words": [
+      {
+        "text": "Клод",
+        "start": 1,
+        "end": 9
+      },
+      {
+        "text": "теперь",
+        "start": 9,
+        "end": 21
+      },
+      {
+        "text": "ведёт",
+        "start": 21,
+        "end": 31
+      },
+      {
+        "text": "твой",
+        "start": 31,
+        "end": 39
+      },
+      {
+        "text": "Инстаграм",
+        "start": 39,
+        "end": 55
+      },
+      {
+        "text": "Три",
+        "start": 66,
+        "end": 75
+      },
+      {
+        "text": "фишки",
+        "start": 75,
+        "end": 89
+      },
+      {
+        "text": "И",
+        "start": 95,
+        "end": 101
+      },
+      {
+        "text": "третья",
+        "start": 101,
+        "end": 116
+      },
+      {
+        "text": "самая",
+        "start": 116,
+        "end": 129
+      },
+      {
+        "text": "важная",
+        "start": 129,
+        "end": 144
+      }
+    ]
+  },
+  {
+    "id": "s01",
+    "file": "voiceover/campfire/s01.wav",
+    "audioFrames": 151,
+    "words": [
+      {
+        "text": "Первое",
+        "start": 1,
+        "end": 21
+      },
+      {
+        "text": "Пишет",
+        "start": 28,
+        "end": 37
+      },
+      {
+        "text": "сценарии",
+        "start": 37,
+        "end": 51
+      },
+      {
+        "text": "рилс",
+        "start": 51,
+        "end": 59
+      },
+      {
+        "text": "по",
+        "start": 59,
+        "end": 64
+      },
+      {
+        "text": "секундам",
+        "start": 64,
+        "end": 78
+      },
+      {
+        "text": "Где",
+        "start": 87,
+        "end": 95
+      },
+      {
+        "text": "хук",
+        "start": 95,
+        "end": 103
+      },
+      {
+        "text": "где",
+        "start": 103,
+        "end": 111
+      },
+      {
+        "text": "пауза",
+        "start": 111,
+        "end": 123
+      },
+      {
+        "text": "где",
+        "start": 123,
+        "end": 131
+      },
+      {
+        "text": "призыв",
+        "start": 131,
+        "end": 144
+      }
+    ]
+  },
+  {
+    "id": "s02",
+    "file": "voiceover/campfire/s02.wav",
+    "audioFrames": 126,
+    "words": [
+      {
+        "text": "Второе",
+        "start": 1,
+        "end": 22
+      },
+      {
+        "text": "Делает",
+        "start": 29,
+        "end": 42
+      },
+      {
+        "text": "карусели",
+        "start": 42,
+        "end": 57
+      },
+      {
+        "text": "под",
+        "start": 57,
+        "end": 65
+      },
+      {
+        "text": "сохранения",
+        "start": 65,
+        "end": 83
+      },
+      {
+        "text": "а",
+        "start": 90,
+        "end": 94
+      },
+      {
+        "text": "не",
+        "start": 94,
+        "end": 101
+      },
+      {
+        "text": "под",
+        "start": 101,
+        "end": 109
+      },
+      {
+        "text": "лайки",
+        "start": 109,
+        "end": 120
+      }
+    ]
+  },
+  {
+    "id": "algo",
+    "file": "voiceover/campfire/algo.wav",
+    "audioFrames": 173,
+    "words": [
+      {
+        "text": "Потому",
+        "start": 1,
+        "end": 12
+      },
+      {
+        "text": "что",
+        "start": 12,
+        "end": 18
+      },
+      {
+        "text": "знает",
+        "start": 18,
+        "end": 28
+      },
+      {
+        "text": "что",
+        "start": 28,
+        "end": 34
+      },
+      {
+        "text": "реально",
+        "start": 34,
+        "end": 46
+      },
+      {
+        "text": "считает",
+        "start": 46,
+        "end": 58
+      },
+      {
+        "text": "алгоритм",
+        "start": 58,
+        "end": 72
+      },
+      {
+        "text": "Досмотры",
+        "start": 84,
+        "end": 107
+      },
+      {
+        "text": "Репосты",
+        "start": 113,
+        "end": 137
+      },
+      {
+        "text": "Сохранения",
+        "start": 144,
+        "end": 168
+      }
+    ]
+  },
+  {
+    "id": "s03",
+    "file": "voiceover/campfire/s03.wav",
+    "audioFrames": 132,
+    "words": [
+      {
+        "text": "И",
+        "start": 1,
+        "end": 7
+      },
+      {
+        "text": "третье",
+        "start": 7,
+        "end": 24
+      },
+      {
+        "text": "Без",
+        "start": 32,
+        "end": 39
+      },
+      {
+        "text": "ботов",
+        "start": 39,
+        "end": 50
+      },
+      {
+        "text": "и",
+        "start": 50,
+        "end": 55
+      },
+      {
+        "text": "накрутки",
+        "start": 55,
+        "end": 71
+      },
+      {
+        "text": "которые",
+        "start": 76,
+        "end": 95
+      },
+      {
+        "text": "режут",
+        "start": 95,
+        "end": 109
+      },
+      {
+        "text": "охваты",
+        "start": 109,
+        "end": 125
+      }
+    ]
+  },
+  {
+    "id": "install",
+    "file": "voiceover/campfire/install.wav",
+    "audioFrames": 101,
+    "words": [
+      {
+        "text": "Установка",
+        "start": 1,
+        "end": 24
+      },
+      {
+        "text": "Одна",
+        "start": 34,
+        "end": 46
+      },
+      {
+        "text": "минута",
+        "start": 46,
+        "end": 60
+      },
+      {
+        "text": "Прямо",
+        "start": 68,
+        "end": 79
+      },
+      {
+        "text": "в",
+        "start": 79,
+        "end": 84
+      },
+      {
+        "text": "Клоде",
+        "start": 84,
+        "end": 95
+      }
+    ]
+  },
+  {
+    "id": "madeby",
+    "file": "voiceover/campfire/madeby.wav",
+    "audioFrames": 258,
+    "words": [
+      {
+        "text": "Кстати",
+        "start": 1,
+        "end": 21
+      },
+      {
+        "text": "Это",
+        "start": 28,
+        "end": 36
+      },
+      {
+        "text": "видео",
+        "start": 36,
+        "end": 47
+      },
+      {
+        "text": "целиком",
+        "start": 47,
+        "end": 61
+      },
+      {
+        "text": "сделал",
+        "start": 61,
+        "end": 73
+      },
+      {
+        "text": "Клод",
+        "start": 73,
+        "end": 83
+      },
+      {
+        "text": "Озвучку",
+        "start": 94,
+        "end": 117
+      },
+      {
+        "text": "Анимацию",
+        "start": 122,
+        "end": 149
+      },
+      {
+        "text": "И",
+        "start": 155,
+        "end": 161
+      },
+      {
+        "text": "звук",
+        "start": 161,
+        "end": 173
+      },
+      {
+        "text": "Без",
+        "start": 182,
+        "end": 189
+      },
+      {
+        "text": "сторонних",
+        "start": 189,
+        "end": 205
+      },
+      {
+        "text": "сервисов",
+        "start": 205,
+        "end": 220
+      },
+      {
+        "text": "и",
+        "start": 220,
+        "end": 224
+      },
+      {
+        "text": "лишних",
+        "start": 224,
+        "end": 236
+      },
+      {
+        "text": "подписок",
+        "start": 236,
+        "end": 250
+      }
+    ]
+  },
+  {
+    "id": "question",
+    "file": "voiceover/campfire/question.wav",
+    "audioFrames": 66,
+    "words": [
+      {
+        "text": "Хочешь",
+        "start": 1,
+        "end": 15
+      },
+      {
+        "text": "себе",
+        "start": 15,
+        "end": 25
+      },
+      {
+        "text": "такого",
+        "start": 25,
+        "end": 39
+      },
+      {
+        "text": "помощника",
+        "start": 39,
+        "end": 59
+      }
+    ]
+  },
+  {
+    "id": "cta",
+    "file": "voiceover/campfire/cta.wav",
+    "audioFrames": 103,
+    "words": [
+      {
+        "text": "Пиши",
+        "start": 1,
+        "end": 10
+      },
+      {
+        "text": "Клод",
+        "start": 10,
+        "end": 19
+      },
+      {
+        "text": "в",
+        "start": 19,
+        "end": 23
+      },
+      {
+        "text": "комментариях",
+        "start": 23,
+        "end": 44
+      },
+      {
+        "text": "Пришлю",
+        "start": 53,
+        "end": 64
+      },
+      {
+        "text": "ссылку",
+        "start": 64,
+        "end": 76
+      },
+      {
+        "text": "и",
+        "start": 76,
+        "end": 80
+      },
+      {
+        "text": "инструкцию",
+        "start": 80,
+        "end": 97
+      }
+    ]
+  }
+]
